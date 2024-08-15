@@ -26,15 +26,13 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 
 ## 📈 **Projetos**
 - **[QuadraManager](#)**: Aplicação para gestão de quadras esportivas, utilizando Java e PostgreSQL.
-- **[CadastroModalidade](#)**: Sistema de cadastro de modalidades esportivas com integração de banco de dados Firebird.
-- **[CadastroCliente](#)**: Projeto de cadastro de clientes, focado em usabilidade e eficiência.
 
 ## 📚 **Educação**
-- **Bacharelado em Ciência da Computação** - [Nome da Universidade] (2015-2019)
-- **Curso de Especialização em Bancos de Dados** - [Nome da Instituição] (2020-2021)
+- **Superior em Filosofia** - [Faculdade Vicentina - Curitiba - PR] (2000 - 2003)
+- **Superior em Logistica** - [Faculdade Senac - Chapecó - SC] (2010 - 2013)
 
 ## 📞 **Contato**
- **Email**: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) josezanandrea1981@outlook.com
+- **Email**: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) josezanandrea1981@outlook.com
 - **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jzanandrea/)
 
 ---
