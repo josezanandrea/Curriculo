@@ -34,7 +34,7 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 - **Curso de Especialização em Bancos de Dados** - [Nome da Instituição] (2020-2021)
 
 ## 📞 **Contato**
-- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josezanandrea1981@outlook.com)
+ **Email**: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) josezanandrea1981@outlook.com
 - **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jzanandrea/)
 
 ---
