@@ -13,7 +13,7 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![3/5](https://img.shields.io/badge/Intermediate-3-yellow) |
 | ![Firebird](https://img.shields.io/badge/Firebird-FF0000?style=for-the-badge&logo=firebird&logoColor=white) | ![4/5](https://img.shields.io/badge/Advanced-4-yellowgreen)  |
 | ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white) | ![4/5](https://img.shields.io/badge/Advanced-4-yellowgreen)  |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![3/5](https://img.shields.io/badge/Expert-5-green) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![3/5](https://img.shields.io/badge/Intermediate-3-yellow)|
 | ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white) | ![3/5](https://img.shields.io/badge/Intermediate-3-yellow) |
 | ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white) | ![3/5](https://img.shields.io/badge/Intermediate-3-yellow) |
 
