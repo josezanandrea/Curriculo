@@ -30,6 +30,9 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 ## 📚 **Educação**
 - **Superior em Filosofia** - [Faculdade Vicentina - Curitiba - PR] (2000 - 2003)
 - **Superior em Logistica** - [Faculdade Senac - Chapecó - SC] (2010 - 2013)
+- **Pós Graduação em gestão de Operações e Logistica** - [Uniasselvi - Chapecó - SC] (2020 - 2021)
+- **Curso Entra 21 - Desemvolvimento C#** - [Faculdade Senac - Chapecó - SC] (2022)
+- **Jovem Programador** - [Faculdade Senac - Chapecó - SC] (Cursando)
 
 ## 📞 **Contato**
 - **Email**: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) josezanandrea1981@outlook.com
