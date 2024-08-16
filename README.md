@@ -41,4 +41,4 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 
 ---
 
-> Feito com 💙 por [Seu Nome](https://github.com/seuusername)
+> Feito  por [Jose Olivo Zanandrea](https://github.com/seuusername)
