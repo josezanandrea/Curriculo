@@ -3,7 +3,7 @@
 ![profile_image](https://via.placeholder.com/150)
 
 ## 🎯 **Objetivo**
-Desenvolvedor com experiência em sistemas de banco de dados e interesse em desenvolver soluções inovadoras e eficientes para o mercado de software.
+Experiência em sistemas de banco de dados com interesse em desenvolver soluções inovadoras e eficientes para o mercado de software. 
 
 ## 💻 **Hard Skills**
 
@@ -24,6 +24,10 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 - **Gestão de tempo**: Organização e priorização de tarefas para entregar projetos no prazo ⏰
 - **Aprendizado contínuo**: Sempre buscando aprimorar conhecimentos e habilidades 📚
 
+## 📈 **Experiências**
+- **Formação em Logística**: Conhecimento nas áreas de Faturamento, Recebimento, Compras, Separação e Expedição de mercadorias. Familiaridade com questões fiscais como tributação e CFOPs, além de uma visão geral de todos os setores de uma empresa.
+- **Desenvolvimento de Software**: Atuação em uma empresa de sistemas na função de Desenvolvedor de Software, com conhecimentos em SQL, C# e Delphi. Experiência com estruturas de redes e servidores. Boa capacidade de comunicação e dedicação ao aprendizado.
+
 ## 📈 **Projetos**
 - **[QuadraManager](#)**: Aplicação para gestão de quadras esportivas, utilizando Java e PostgreSQL.
 
@@ -31,7 +35,7 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 - **Superior em Filosofia** - [Faculdade Vicentina - Curitiba - PR] (2000 - 2003)
 - **Superior em Logistica** - [Faculdade Senac - Chapecó - SC] (2010 - 2013)
 - **Pós Graduação em gestão de Operações e Logistica** - [Uniasselvi - Chapecó - SC] (2020 - 2021)
-- **Curso Entra 21 - Desemvolvimento C#** - [Faculdade Senac - Chapecó - SC] (2022)
+- **Curso Entra 21 - Desenvolvimento C#** - [Faculdade Senac - Chapecó - SC] (2022)
 - **Jovem Programador** - [Faculdade Senac - Chapecó - SC] (Cursando)
 
 ## 📞 **Contato**
