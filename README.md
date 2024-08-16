@@ -41,4 +41,4 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 
 ---
 
-> Feito  por [Jose Olivo Zanandrea](https://github.com/seuusername)
+> Feito  por [Jose Olivo Zanandrea](https://github.com/josezanandrea)
