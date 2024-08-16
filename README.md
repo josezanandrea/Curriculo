@@ -37,6 +37,7 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 ## 📞 **Contato**
 - **Email**: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) josezanandrea1981@outlook.com
 - **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jzanandrea/)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josezanandrea/)
 
 ---
 
