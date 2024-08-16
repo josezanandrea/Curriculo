@@ -1,4 +1,4 @@
-# 💼 **Meu Currículo**
+# 💼 **Currículo**
 
 ![profile_image](https://via.placeholder.com/150)
 
@@ -41,4 +41,4 @@ Desenvolvedor com experiência em sistemas de banco de dados e interesse em dese
 
 ---
 
-> Feito  por [Jose Olivo Zanandrea](https://github.com/josezanandrea)
+> Feito por [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) Jose Olivo Zanandrea](https://github.com/josezanandrea)
